@@ -1,0 +1,16 @@
+.card{
+    box-shadow: 4px 4px 6px 3px black;
+}
+.card:hover{
+    box-shadow: 6px 6px 10px 6px rgb(19, 18, 18);
+    transform: scale(1.1);
+}
+.card:active{
+    transform: scale(1.05);
+}
+body{
+    padding-top: 60px;
+    background-color: rgb(88, 87, 87);
+}
+
+
